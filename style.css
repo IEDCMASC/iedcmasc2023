@@ -1,0 +1,33 @@
+h1 {
+    font-family
+}
+
+
+.head {
+    display: inline-flex;
+    padding-top: 2%;
+}
+.img {
+    position: relative;
+    top: 20%;
+    left: 3%;
+    width: 45%;
+    border-radius: 10PX;
+
+}
+.detail{
+    padding: 1em;
+
+}
+.btn a{
+
+    height: 20%;
+    
+}
+
+h1 {
+    margin-left: 10%;
+    margin-right: 28%;
+    
+}
+
